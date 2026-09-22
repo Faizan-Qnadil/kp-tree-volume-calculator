@@ -1,0 +1,16 @@
+{
+  "dist/_headers": "0e7c8382d58a60a1a05a36e342d8ef0e55a248a6b36a728947db1e3f870a9832",
+  "dist/app.js": "b9b52f0b5ed8307815a4a523ddf8bc1e775496c2968d09051bf151a8f4a7fd3c",
+  "dist/guide.html": "646d3bec34501fa0158b81c51e92a02cc78b3267b88471b241e3c933678c11d8",
+  "dist/icon.svg": "0cc6fa686b8c350f543d4cfa4870c91aea2c2653b8408ddcbd8483d484d11243",
+  "dist/index.html": "5f463e368a7c6ee477bd0ebe9efc75a3eeea04764b380d0c643dee655f259163",
+  "dist/inventory-core.js": "f89da75f908023cdaf1b0bf0d8b491e4d3be52c44b1b0cfbd66db1b46e8be701",
+  "dist/inventory.js": "76e653859bad7f54f7ea480f53eada49572cb7e257deef888d27c42e6d5c692b",
+  "dist/io.js": "ca7a700bd3f176c40c381cfa33059fdcdbbd9cd578ccce9282a94cb87b8640cb",
+  "dist/manifest.webmanifest": "65b4e24b9273003cdcbabcfc1a627fab4bebb6bb56abffdc20a98ee1953712ed",
+  "dist/models.js": "f096aa0ea68d1730901ce7725e8cd634a6814cb8b6cc5c2346553e31566240b4",
+  "dist/offline.js": "16133d7ccbe5c29814f3e5deac8518c1f17ceca149ee62e1962a2c87427101a4",
+  "dist/pfi-logo.png": "d2f900e11d74cb5fd24db86f20fb8be25db751427ea9a97bb8068ace64b4e685",
+  "dist/style.css": "b9383a2815fd419aa7b437974377a4fbc22b5adb77d5c826a407a0834f433358",
+  "dist/sw.js": "1432c1f23c09a908f7f8e55fdc19bf583996274e753a47be3b98bc1966efd7b7"
+}
